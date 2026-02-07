@@ -13,7 +13,7 @@ How do I know? This is just some stuff I'm doing during a workshop.
 
 ## How to test
 
-Explain how to use your project
+Now these points of data make a beautiful line. 
 
 ## External hardware
 
