@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+How do I know? This is just some stuff I'm doing during a workshop. 
 
 ## How to test
 
